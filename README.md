@@ -1,4 +1,4 @@
-# Insurance_Charge_Prediction
+# Insurance_Charges_Prediction
 Objective :  
 To predict the Insurance charge based on age which also depends on whether the person is smoker or not.
 
